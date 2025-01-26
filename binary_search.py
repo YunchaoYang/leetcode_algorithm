@@ -1,3 +1,6 @@
+# LeetCode Binary Search Summary 二分搜索法小结
+# https://www.cnblogs.com/grandyang/p/6854825.html
+
 def lower_bound(arr, first, last, value):
 # 适用于区间为空、答案不存在、有重复元素、搜索开/闭的上/下界等情况
     # search [first, last) 
